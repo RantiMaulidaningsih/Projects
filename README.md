@@ -5,4 +5,5 @@ membuat prototype aplikasi menggunakan penyedia lokasi wisata lokal yang bagus t
 # Project Mata Kuliah Penelitian Matematika
 membuat aplikasi penyedia barcode yang apabila discan memuat informasi mahasiswa yang meminjam buku di perpustakaan.
 # Project Mata Kuliah AI
-Penerapan LOGIKA FUZZY Menggunakan Metode Mamdani Untuk Mengatur Kecepatan Mesin 
+* Penerapan LOGIKA FUZZY Menggunakan Metode Mamdani Untuk Mengatur Kecepatan Mesin 
+* build Intelegent Tutoring System
